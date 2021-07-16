@@ -1,4 +1,4 @@
-# Drag_and_Drop_Card
+# drag-and-drop-card
 드래그앤 드롭 카드
 
 ![Drag Drop_Card_01](https://user-images.githubusercontent.com/55288856/104830153-6a477d80-58bf-11eb-892f-f1073db4c785.png)
